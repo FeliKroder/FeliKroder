@@ -34,9 +34,13 @@ with my girl
 > Das Paradies ist da,  
 > wo ich bin. - *Voltaire*
 
+<br>
+<br>
+<br>
 ___
 
 # You are the ![Visitor Count](https://profile-counter.glitch.me/FeliKroder/count.svg) Visitor on this page
+
 
 <!---
 FeliKroder/FeliKroder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
