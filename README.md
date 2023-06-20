@@ -7,16 +7,22 @@
 
 
 ## My DreamWorkPlace 💞️
-![Best Workplace](https://images.unsplash.com/photo-1630436476807-03b13bd02e0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80)
+<!--![Best Workplace](https://images.unsplash.com/photo-1630436476807-03b13bd02e0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80)-->
+<img src="https://images.unsplash.com/photo-1630436476807-03b13bd02e0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80" width="350"/>
 
+## My current hobbies
 
-## Stuff I do right now
+Coding like crazy
+<!--![Coding like crqzy](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350"/>
 
-![Coding like crqzy](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) 
+Drinking lots of iced coffee latte - the vegan way
+<!--![Drinking iced coffee latte](https://i.pinimg.com/564x/58/a7/b6/58a7b6a4cdccfc9ee7629bdcf98e42ac.jpg)-->
+<img src="https://i.pinimg.com/564x/58/a7/b6/58a7b6a4cdccfc9ee7629bdcf98e42ac.jpg" width="350"/>
 
-![Drinking iced coffee latte](https://i.pinimg.com/564x/58/a7/b6/58a7b6a4cdccfc9ee7629bdcf98e42ac.jpg)
-
-![Playground Hopping](https://i.pinimg.com/564x/de/10/1b/de101b208e2d395bcfb02488dc95a6b8.jpg)
+Playground Hopping
+<!--![Playground Hopping](https://i.pinimg.com/564x/de/10/1b/de101b208e2d395bcfb02488dc95a6b8.jpg)-->
+<img src="https://i.pinimg.com/564x/de/10/1b/de101b208e2d395bcfb02488dc95a6b8.jpg" width="350"/>
 
 
 
