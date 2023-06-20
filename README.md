@@ -4,7 +4,7 @@
 - 👀 I’m interested in lifelong learning
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing special yet
-- 📫 reach out to me [link text](https://www.linkedin.com/in/felicitas-kroder)
+- 📫 reach out to me [LinkedIn Profil](https://www.linkedin.com/in/felicitas-kroder)
 
 <!---
 FeliKroder/FeliKroder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
