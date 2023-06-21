@@ -13,9 +13,9 @@
 
 ## Checklist for today
 
-- [x] **Coding like crazy**
-<!--![Coding like crqzy](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
-<img src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif" width="200"/>
+- [x] **Coding like crazy**  
+![Coding like crazy](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<img style="float:middle;width:200px" src="https://media.giphy.com/media/3oriO0o3mjqifL7wK4/giphy.gif"/>
 
 - [x] **Drinking lots of iced coffee**   
 the vegan way
