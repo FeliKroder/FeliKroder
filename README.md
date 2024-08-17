@@ -26,12 +26,6 @@
   <img src="https://i.pinimg.com/564x/58/a7/b6/58a7b6a4cdccfc9ee7629bdcf98e42ac.jpg" width="250">
   <br>
   <br>
-- [x] **Hanging at the Playground**
-  <br>
-  ...with my girl  
-  <img src="https://media.giphy.com/media/5e22AmU8fqJpxCWZpF/giphy.gif" width="250">
-  <br>
-  <br>
 - [x] **Chilling**
   <br>
   ...and thinking about coding  
