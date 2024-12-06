@@ -4,7 +4,7 @@
 - 👩🏻‍💻 I recently absolved a Bootcamp [Neue Fische](https://github.com/neuefische)
 - 👀 View my latest Projects in GitHub [Repositories](https://github.com/FeliKroder?tab=repositories)
 - 🔥 Brandnew Website to show of my [Portfolio](https://feli-kroder.vercel.app/)
-- 📫 Reach out to me on [LinkedIn Profil](https://www.linkedin.com/in/felicitas-kroder)
+- 📫 Reach out to me on [LinkedIn Profil](https://www.linkedin.com/in/felikroder)
   
 
 <br>
